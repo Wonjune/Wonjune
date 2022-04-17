@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Wonjune
+- 👀 I’m interested in Javascript, React.js, Vue.js, Spring
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on javascript
+- 📫 How to reach me cloudysoul@naver.com
